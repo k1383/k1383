@@ -8,6 +8,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-📊 GitHub Stats 
-![Tes stats GitHub](https://github-readme-stats.vercel.app/api?username=k1383&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k1383&layout=compact&theme=tokyonight)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=k1383&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=k1383&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
