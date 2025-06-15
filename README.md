@@ -8,11 +8,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-## Project 
-| [GeniArtHub]([https://github.com/TON_USERNAME/markdown](https://github.com/k1383/GeniArtHub)) 
-| [Home Key](https://github.com/k1383/Home-Key) 
-| [Malmaison]([https://github.com/TON_USERNAME/openclassroom-form](https://github.com/k1383/Malmaison)) 
-
 📊 GitHub Stats 
 ![Tes stats GitHub](https://github-readme-stats.vercel.app/api?username=k1383&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k1383&layout=compact&theme=tokyonight)
